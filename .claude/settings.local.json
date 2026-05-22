@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\samue\\\\OneDrive\\\\Documents\\\\dev\\\\affliction-bot\" -Recurse -File)",
+      "Bash(Select-Object -First 50)",
+      "Bash(Format-Table FullName)"
+    ]
+  }
+}

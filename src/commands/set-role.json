@@ -1,0 +1,19 @@
+{
+    "name": "set-role",
+    "description": "Attribuer un rôle à un utilisateur",
+    "type": 1,
+    "options": [
+        {
+            "name": "user",
+            "description": "L'utilisateur à qui attribuer le rôle",
+            "type": 6,
+            "required": true
+        },
+        {
+            "name": "role",
+            "description": "Le rôle à attribuer",
+            "type": 8,
+            "required": true
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "button",
+    "description": "Pin the previous message and add a button to the message",
+    "type": 1,
+    "options": [
+      {
+        "name": "text",
+        "description": "Text to display on the button by default is 'Confirmer'",
+        "type": 3,
+        "required": false
+      }
+    ]
+  }

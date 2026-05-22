@@ -1,0 +1,13 @@
+{
+    "name": "rename",
+    "description": "Change ton pseudo",
+    "type": 1,
+    "options": [
+      {
+        "name": "nickname",
+        "description": "Pseudo dofus",
+        "type": 3,
+        "required": true
+      }
+    ]
+  }
